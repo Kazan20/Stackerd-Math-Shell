@@ -110,6 +110,6 @@ StackerdMath (stdm) is a stack-based shell with a variety of commands for mathem
 
 ## License
 
-This project is licensed under the KICENCE License. See the [LICENSE](LICENSE.ki) file for details.
+This project is licensed under the KICENCE License. See the [LICENSE](LICENCE.ki) file for details.
 
 ---
