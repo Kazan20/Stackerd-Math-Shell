@@ -1,5 +1,7 @@
 ---
 
+![Stackerd Math Shell](StackerdMath-shell-logo.png)
+
 # StackerdMath (stdm.py)
 
 ## Overview
