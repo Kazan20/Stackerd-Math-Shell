@@ -1,6 +1,6 @@
 ---
 
-![Stackerd Math Shell](StackerdMath-shell-logo.png)
+![Stackerd Math Shell](StackerdMath-shell-logo-large.png)
 
 # StackerdMath (stdm.py)
 
